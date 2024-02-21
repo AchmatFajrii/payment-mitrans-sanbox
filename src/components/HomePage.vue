@@ -8,7 +8,7 @@ const router = useRouter();
 // Contoh data yang akan dikirim ke server
 const orderData = ref({
     transaction_details: {
-        order_id: "A1322544416tX0dQ4H297ID-1",
+        order_id: "A11236544416tX0dQ4H297ID-1",
         gross_amount: 40000
     },
     item_details: [
